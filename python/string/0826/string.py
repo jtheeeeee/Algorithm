@@ -1,3 +1,4 @@
+# backjoon 2941
 # s= input()
 # char_list =['c-','c=','d-','dz','lj','nj','s=','z=']
 # count = 0
@@ -16,7 +17,6 @@
 #         count+=1
 #     i+=1
 # print(count)
-
 #특정 문자열을 list로 만들어야 겠다는 접근법 까지는 꽤 좋았으나
 #특정 문자열을 하나의 단어로 대체하겠다는 접근은 하지 못함..
 s=input()
